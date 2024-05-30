@@ -13,30 +13,36 @@
    
   ![image](https://github.com/csieung/VRBowling/assets/72512163/636e7f2a-51eb-4e38-ae3a-eaca069e39d4)
 
+
 2. 볼링공 집기 - Grab Interactable
 
   ![image](https://github.com/csieung/VRBowling/assets/72512163/34e5932e-9718-4b6b-b580-7e6fdf34c0a7)
+
 
 3. 웹캡 촬영 시작 - 오른쪽 트리거 당기기
 
   ![image](https://github.com/csieung/VRBowling/assets/72512163/a87233d2-9902-424a-8f38-74ba7cdf9225)
 
-   오른쪽 트리거를 당기면 촬영이 시작되고, 한번 더 당기면 촬영이 종료되며 프레임 단위로 저장된다.
-   저장된 프레임들로 자세를 분석하고 다시 VR 게임 내에서 GIF 형식으로 출력되어 확인할 수 있다.
+  오른쪽 트리거를 당기면 촬영이 시작되고, 한번 더 당기면 촬영이 종료되며 프레임 단위로 저장된다.
+  저장된 프레임들로 자세를 분석하고 다시 VR 게임 내에서 GIF 형식으로 출력되어 확인할 수 있다.
+
 
 4. 사용자의 후방에서 촬영 - 웹캠 출력
 
   ![image](https://github.com/csieung/VRBowling/assets/72512163/89373b6f-0b5f-4094-a583-887c5c0859a6)
 
+
 5. 볼링 자세 분석 후 점수와 정확도 출력
 
   ![image](https://github.com/csieung/VRBowling/assets/72512163/815792c3-11d5-4067-8c60-ea57764951ff)
+
 
 6. 점수 확인
 
   ![image](https://github.com/csieung/VRBowling/assets/72512163/b1128ed4-ac67-4009-a93d-1202de95610a)
 
-   볼링 게임이 완료 된 후, 점수를 확인할 수 있다.
+  볼링 게임이 완료 된 후, 점수를 확인할 수 있다.
+
 
 7. 게임 재시작
 
