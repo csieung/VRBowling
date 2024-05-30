@@ -19,7 +19,7 @@
 
 3. 웹캡 촬영 시작 - 오른쪽 트리거 당기기
 
-   ![image](https://github.com/csieung/VRBowling/assets/72512163/a87233d2-9902-424a-8f38-74ba7cdf9225)
+  ![image](https://github.com/csieung/VRBowling/assets/72512163/a87233d2-9902-424a-8f38-74ba7cdf9225)
 
    오른쪽 트리거를 당기면 촬영이 시작되고, 한번 더 당기면 촬영이 종료되며 프레임 단위로 저장된다.
    저장된 프레임들로 자세를 분석하고 다시 VR 게임 내에서 GIF 형식으로 출력되어 확인할 수 있다.
@@ -34,7 +34,7 @@
 
 6. 점수 확인
 
-   ![image](https://github.com/csieung/VRBowling/assets/72512163/b1128ed4-ac67-4009-a93d-1202de95610a)
+  ![image](https://github.com/csieung/VRBowling/assets/72512163/b1128ed4-ac67-4009-a93d-1202de95610a)
 
    볼링 게임이 완료 된 후, 점수를 확인할 수 있다.
 
