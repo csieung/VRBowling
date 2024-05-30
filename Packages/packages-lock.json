@@ -402,7 +402,7 @@
       "url": "https://packages.unity.com"
     },
     "io.extendreality.zinnia.unity": {
-      "version": "file:C:/Users/428-3090/Desktop/Zinnia.Unity-master/Zinnia.Unity-master",
+      "version": "file:C:/Users/choi/Desktop/cse/unity/Zinnia.Unity-master",
       "depth": 0,
       "source": "local",
       "dependencies": {}
